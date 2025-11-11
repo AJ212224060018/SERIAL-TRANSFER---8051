@@ -2,7 +2,7 @@
 
 **AIM:** 
 
-To write and execute Embedded C Program for Serial Transfer of Single Byte / Character using 8051 KEIL
+To write and execute Embedded C Program for Serial Transfer of Single Byte / Character using 8051 KEIL.
 
 **APPARATUS REQUIRED:**
 
